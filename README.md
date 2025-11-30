@@ -4,7 +4,7 @@
 ### Created using HTML, CSS, JavaScript and Bootstrap 5.3.3
 
 * Live Site
-  https://curran68.github.io/Historic/quiz.html
+  hhttps://curran68.github.io/MP-2/
 
 * Repository LInk
 https://github.com/curran68/Historic.git
